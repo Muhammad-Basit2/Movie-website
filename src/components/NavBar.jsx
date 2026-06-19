@@ -6,7 +6,7 @@ function NavBar() {
         <div className="navbar brand">
             <Link to="/">Movie App</Link>
             <div className="navbar-links">
-                <Link to="/Movie-website/" className="nav-link">Home</Link>
+                <Link to="/" className="nav-link">Home</Link>
                 <Link to="/favorites" className="nav-link">Favorites</Link>
             </div>
         </div>
